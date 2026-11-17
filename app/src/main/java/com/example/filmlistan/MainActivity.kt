@@ -68,7 +68,7 @@ fun GreetingPreview() {
 fun FilmLista(viewModel: FilmlistanViewModel = viewModel() ) {
     Column {
         Text(
-            text = "Min filmlista",
+            text = "Min fantastiska filmlista",
             modifier = Modifier
                 .fillMaxWidth()
                 .background(Color(0xFF6750A4))
